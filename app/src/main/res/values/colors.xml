@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#f8a306</color>
+    <color name="colorPrimaryDark">#f8a306</color>
+    <color name="colorPrimaryFade">#40f8a306</color>
+    <color name="colorAccent">#201b17</color>
+    <color name="colorText">#201b17</color>
+    <color name="loaderColor">#70909090</color>
+    <color name="fadeColor">#90201b17</color>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+
+
+    <item android:id="@+id/home"
+        android:icon="@drawable/ic_house_black_silhouette_without_door"
+        android:title="Home"/>
+    <item android:id="@+id/about_us"
+        android:icon="@drawable/ic_about_us"
+        android:title="About Us"/>
+    <item android:id="@+id/contact_us"
+        android:icon="@drawable/ic_call_center_worker_with_headset"
+        android:title="Contact Us"
+        />
+    <item android:id="@+id/help"
+        android:icon="@drawable/ic_question"
+        android:title="Help"/>
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/term_condition"
+            android:icon="@drawable/ic_term_condition"
+            android:title="Terms &amp; Conditions"/>
+        <item android:id="@+id/privacy_policy"
+            android:icon="@drawable/ic_privacy_policy"
+            android:title="Privacy Policy"/>
+    </group>
+    </group>
+</menu>
